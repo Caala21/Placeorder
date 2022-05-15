@@ -1,1 +1,7 @@
-# Placeorder
+<form>
+  <label for="celsius">Celsius:</label><br />
+  <input type="number" id="celsius" value="0">
+  <br /><br />
+  <label for="fahr">Fahrenheit:</label><br />
+  <input type="number" id="fahr" value="32">
+</form>
